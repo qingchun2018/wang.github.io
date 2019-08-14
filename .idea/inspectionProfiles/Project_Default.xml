@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="Flask-Script" />
+            <item index="2" class="java.lang.String" itemvalue="optional-django" />
+            <item index="3" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="4" class="java.lang.String" itemvalue="Flask-MySQLdb" />
+            <item index="5" class="java.lang.String" itemvalue="npm" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="redis" />
+            <item index="8" class="java.lang.String" itemvalue="WTForms" />
+            <item index="9" class="java.lang.String" itemvalue="selenium" />
+            <item index="10" class="java.lang.String" itemvalue="lxml" />
+            <item index="11" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="12" class="java.lang.String" itemvalue="urllib3" />
+            <item index="13" class="java.lang.String" itemvalue="Flask-Session" />
+            <item index="14" class="java.lang.String" itemvalue="Flask" />
+            <item index="15" class="java.lang.String" itemvalue="pkg-resources" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
